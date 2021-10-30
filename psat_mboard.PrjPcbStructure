@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=pcube_mcu.SchDoc
+Record=TopLevelDocument|FileName=mboard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_mcu.SchDoc|SheetNumber=2
