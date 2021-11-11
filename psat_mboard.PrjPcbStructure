@@ -1,2 +1,7 @@
 Record=TopLevelDocument|FileName=mboard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_battery.SchDoc|SheetNumber=Ëèñò
 Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_mcu.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_pwr_ctrl.SchDoc|SheetNumber=Ëèñò
+Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_pwr_fuse.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_pwr_harvewster.SchDoc|SheetNumber=Ëèñò
+Record=NoMainPathDocument|SourceDocument=mboard.SchDoc|FileName=mboard_usb.SchDoc|SheetNumber=Ëèñò
